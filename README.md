@@ -32,7 +32,7 @@
 # 社交信息
 
 - GitHub：[https://github.com/mayoupeng](https://github.com/mayoupeng)
-- 掘金：[[https://juejin.cn/user/782508010775198/posts](https://juejin.cn/user/1324279390281239/posts)]([https://juejin.cn/user/1324279390281239](https://juejin.cn/user/1324279390281239/posts))
+- 掘金：[https://juejin.cn/user/1324279390281239/posts](https://juejin.cn/user/1324279390281239/posts)
 
 # 相关技能
 
