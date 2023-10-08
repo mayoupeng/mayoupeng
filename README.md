@@ -31,8 +31,8 @@
 
 # 社交信息
 
-- GitHub：https://github.com/li-jia-nan
-- 掘金：https://juejin.cn/user/782508010775198/posts
+- GitHub：[https://github.com/li-jia-nan](https://github.com/mayoupeng)
+- 掘金：[https://juejin.cn/user/782508010775198/posts](https://juejin.cn/user/1324279390281239)
 
 # 相关技能
 
