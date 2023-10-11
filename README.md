@@ -36,52 +36,14 @@
 
 # 相关技能
 
-- antd 团队成员、ahooks 团队成员，活跃于 GitHub 开源社区，给 Next.js、Vite 等众多知名大型开源库贡献过 PR
-- 熟悉 React 及其原理，参与过 React 官方文档翻译工作，熟悉 TypeScript，拥有丰富的 React + TS 实战经验
-- 熟悉前端性能优化的实现，例如代码优化、打包优化、资源优化，能结合实际业务场景进行优化
-- 熟悉 Webpack / Vite 等打包工具的基本配置， 能够对以上工具进行二次封装、基于以上工具搭建通用的开发环境
-- 熟悉 prettier / eslint 基本配置，有良好且严格的编码习惯，唯客户论，实用主义者
-- 熟悉代码开发到上线全流程，对协同开发，分支管理，项目配置等都有较深刻的最佳实践
-
-# 开源经历
-
-## [antd（核心成员之一）](https://github.com/ant-design/ant-design)（87.7k star）
-
-### 贡献地址：https://github.com/ant-design/ant-design/pulls?q=is%3Apr+author%3Ali-jia-nan
-
-- 使用 ts 重构 js，将 antd github 代码仓库的 ts 覆盖率提升了 20%
-- 完成 antd 测试库迁移，将 enzyme 迁移到 testing-lib（其中四分之一由我完成）
-- 负责 antd 新组件 FloatButton、QRCode、Flex 组件的开发，以及部分旧组件的变体开发和维护
-- 负责 antd 中的 Class 组件 => Function 组件的重构工作，完成所有 class 组件的重构
-- 参与各种 RFC 制定与落地、参与 issue 处理和 PR 的 code review
-- 参与新版官网开发，负责部分废弃组件迁移指南的文档编写、添加 warning 和废弃说明
-- 修复底层 rc 库大量 bug、完成 ts 类型增强、代码风格优化、性能优化等
-
-## [ahooks（核心成员之一）](https://github.com/alibaba/hooks)（12.6k star）
-
-### 贡献地址：https://github.com/alibaba/hooks/pulls?q=is%3Apr+author%3Ali-jia-nan
-
-- 添加全新 hook - useMutationObserver（已发布）
-- 添加全新 hook - useIndexDBState（RFC 阶段）
-- 承担 Effect 模块和 LifeCycle 模块 issue 以及 PR 处理
-- 在部分 hook 中添加新功能，适配更多场景，例如 useCountDown、useHover
-- 修复部分 bug、ts 类型强化、测试用例补充完善、提升稳定性
+- xxxxxxxxxx
+- xxxxxxxxxx
 
 # 工作经历
 
-## xxxx 2021.11 - 2023.09 高级前端工程师/平台技术部/前端组
+## xxxx 2021.11 - 2023.09 前端工程师/技术部/前端组
 
-- 负责组内低代码应用协作平台 DTable（LowCode + aPaaS 方向）的开发建设工作
-- 负责组内数据流重构工作，负责多人协同文档的相关需求，抽离并扩展相关功能组件和方法
-- 负责组内 React Hook 仓库建设，目前已实现 100+ 个基于 ahooks 的功能 hook 和业务专用 hook
-- 负责组内实习生的面试 & CodeReview 工作
-
-## xxxx 2021.04 - 2021.11 前端工程师/研发中心/大前端组
-
-- 负责 yoycol 官网相关业务需求、移动端响应式 UI 改造、bops 后台相关业务需求
-- 负责 yoycol 基础组件的维护，以及设计器部分功能的重构和迭代
-- 完成了分销体系、品牌定制、设计器等三大主要模块的开发以及后续迭代和维护工作
-- 在空余时间使用 tailwind css 重构了运营后台、以及 yoycol 部分通用组件
+- 负责组内xxxxx
 
 ## xxxx 2019.11 - 2021.01 前端工程师/研发部/前端组
 
@@ -92,20 +54,11 @@
 
 # 项目经历
 
-## DTable
+## 项目名称
 
 - 低代码多人协作平台，竞品有腾讯文档、飞书文档、WPS 文档、黑帕云、维格表等平台
-- 核心功能主要有表格视图、表单视图、看板视图、画册视图、日历视图、甘特图（正在开发中）
-- 精确到单元格的高级权限控制，自动化机器人实现数据的自动化处理，和第三方数据打通
-- 依赖 socket 通信，实现后台数据同步，保证万级数据的前端虚拟滚动&实时协作功能
-- 实现复杂的分支和审批流配置，定制化 monaco-editor 编辑器
-- 视图交互使用了乐观更新策略，在强交互场景中保证用户体验
-- 使用自定义 API 实现线上错误信息收集，并且接入钉钉机器人警告
-- 具备完整的日常开发体系，在数据流和组件状态管理上均使用 React Hook 编写，整个项目设计 50+ 自定义 hook
-- 除此之外，独立负责 saas 官网的开发与上线，使用 Next.js + Typescript 作为主要技术栈
 
-## yoycol
-
+## 项目名称
 - 该项目是一款面向海外市场的跨境电商服务平台，实现了“可见即可得”，为定制客户提供了更多的内容和流量。
 - 该项目使用 React + Typescript + antd 作为主要技术栈。
 - 在职期间对 package.json 中的部分框架和库做了升级和兼容，并且完成 80% 页面移动端适配
